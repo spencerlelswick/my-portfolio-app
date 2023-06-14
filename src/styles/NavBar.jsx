@@ -24,7 +24,7 @@ const Wrapper = styled.nav`
   /* title */
   .title {
     color: var(--primary-500);
-    font-size: 2rem;
+    font-size: 1.4rem;
     padding-right: -100px;
     padding-bottom: 0.3rem;
   }
