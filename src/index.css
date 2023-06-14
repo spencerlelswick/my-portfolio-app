@@ -13,7 +13,8 @@ html {
 } /*16px*/
 
 :root {
-  /* colors */
+  /* color swatch */
+  --primary-bg: #f4f4f4;
   --primary-100: #8B8CA3;
   --primary-200: #D0D6FC;
   --primary-300: #6B94EA;
@@ -102,7 +103,8 @@ h5 {
 }
 
 h1 {
-  font-size: clamp(2rem, 5vw, 5rem); /* Large heading */
+  font-size: 2rem;
+  color: var(--primary-500);
 }
 
 h2 {

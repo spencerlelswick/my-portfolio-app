@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 const Wrapper = styled.nav`
   height: var(--nav-height);
@@ -6,7 +6,7 @@ const Wrapper = styled.nav`
   align-items: center;
   justify-content: space-between;
   box-shadow: 0 0px 1px 1px rgb(79, 107, 230);
-  background: #f4f4f4;
+  background: var(--primary-bg);
 
   /* logo */
   .logo-container {

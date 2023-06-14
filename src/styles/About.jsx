@@ -5,10 +5,7 @@ const Wrapper = styled.section`
   grid-template-columns: 1fr 1fr;
   padding: 10px;
 
-  h1 {
-    font-size: 2rem;
-    color: var(--primary-500);
-  }
+
 
   .profile-image-container {
     display: flex;
